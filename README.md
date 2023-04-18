@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">An enthusiast of Mobile App Development.</h3>
+<h3 align="center">Computer Science student at Białystok University of Technology <br> and enthusiast of Mobile App Development.</h3>
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
