@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
 <h3 align="center">An enthusiast of Mobile App Development.</h3>
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently playing with **Flutter and Dart**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tomasz-turosinski/**
 
