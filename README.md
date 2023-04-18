@@ -7,7 +7,6 @@
 
 - 📄 Check out my resume [https://tinyurl.com/turosinski-resume](https://tinyurl.com/turosinski-resume)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
