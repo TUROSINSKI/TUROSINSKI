@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tomasz-turosinski/**
 
-- 📄 Check out my resume [https://tinyurl.com/turosinski-resume](https://tinyurl.com/turosinski-resume)
+- 📄 Check out my resume [http://tinyurl.com/turosinski-tomasz-resume](http://tinyurl.com/turosinski-tomasz-resume)
 
 <p align="left">
 </p>
